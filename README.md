@@ -21,7 +21,7 @@
 <ul>
   <li>Main Basket</li>
   <li>Main Game</li>
-  <li>Belajar Coding</li>
+  <li>Main Roblox</li>
 </ul>
 <h3>Jadwal Kegiatan:</h3>
 <table border="3" cellpadding="15">
@@ -31,11 +31,11 @@
   </tr>
   <tr>
     <td>1</td>
-    <td>Belajar HTML</td>
+    <td>Belajar Roblox</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>Belajar CSS</td>
+    <td>Belajar Main</td>
   </tr>
 </table>
 <h3>Form Kontak:</h3>
